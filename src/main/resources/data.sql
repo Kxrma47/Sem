@@ -1,0 +1,2 @@
+INSERT INTO BOOK (TITLE, AUTHOR, ISBN) VALUES ('Spring in Action', 'Craig Walls', '9781617294945');
+INSERT INTO BOOK (TITLE, AUTHOR, ISBN) VALUES ('Java Persistence with Hibernate', 'Christian Bauer', '9781617290459');
